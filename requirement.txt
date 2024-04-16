@@ -1,0 +1,14 @@
+pip install pyaudio
+
+--------------------------------------------------------
+echo for offline voice recognation
+https://alphacephei.com/vosk/models
+indian English
+vosk-model-small-en-in-04 | 36M |
+or hindi
+
+mkdir vosk
+extract here
+\vosk\vosk-model-small-en-in-0.4
+
+pip install vosk
